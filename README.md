@@ -19,5 +19,9 @@ We provide our teacher to remove lecture.
 Students can now take attendance.
 From now on your data don’t store in computers. We store in FireStore Database.
 
+Techonologies Used:<br>
+FireStore Database
+Java
+
 ![login-screen](https://user-images.githubusercontent.com/61562488/127168785-f2f55889-1c86-4a85-a4fa-a800532e7767.png)
 ![signupscreen](https://user-images.githubusercontent.com/61562488/127168797-9e2c3f4f-54a7-418f-b8c1-82073771fcf6.png)
