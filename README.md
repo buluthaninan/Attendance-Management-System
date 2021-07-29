@@ -20,7 +20,7 @@ Students can now take attendance.
 From now on your data don’t store in computers. We store in FireStore Database.
 
 Techonologies Used:<br>
-FireStore Database
+FireStore Database<br>
 Java
 
 ![login-screen](https://user-images.githubusercontent.com/61562488/127168785-f2f55889-1c86-4a85-a4fa-a800532e7767.png)
